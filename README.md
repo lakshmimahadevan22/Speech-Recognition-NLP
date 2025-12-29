@@ -25,3 +25,5 @@ This project explores speech recognition and natural language processing (NLP) u
     - pandas
     - scikit-learn
     - matplotlib
+
+This project was developed as part of coursework for CS6140: Machine Learning at Northeastern University.
